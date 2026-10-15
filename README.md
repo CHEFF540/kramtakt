@@ -2,7 +2,8 @@
 
 Büroabläufe und E-Rechnung für Handwerksbetriebe mit 3 bis 15 Mitarbeitenden.
 
-**Website:** https://cheff540.github.io/kramtakt/
+**Status:** In Vorbereitung. Die Website ist fertig gebaut, aber bewusst noch nicht
+veröffentlicht – sie geht online, sobald die Gewerbeanmeldung vorliegt.
 
 ---
 
@@ -58,7 +59,11 @@ Passwörter oder Zugangsdaten. Dieses Repository ist öffentlich.
 
 ## Offene Punkte
 
-- [ ] Impressum vervollständigen (Name/Firma, Anschrift, Telefon, USt-IdNr. bzw. § 19 UStG)
+- [ ] Gespräch mit den Eltern führen
+- [ ] Kostenlosen Beratungstermin bei der Handelskammer Hamburg wahrnehmen
+- [ ] Gewerbe anmelden (Bezirksamt Hamburg-Mitte)
+- [ ] Fragebogen zur steuerlichen Erfassung beim Finanzamt, Kleinunternehmerregelung wählen
+- [ ] Impressum einsetzen und Seite wieder online schalten
 - [ ] Formular-Dienst anbinden (Web3Forms-Key in `index.html` bei `FORM_ENDPOINT` eintragen)
 - [ ] Eigene Domain `kramtakt.de` registrieren und mit GitHub Pages verbinden
 - [ ] Geschäftliche E-Mail-Adresse statt der privaten eintragen
